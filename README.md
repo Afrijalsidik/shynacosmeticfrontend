@@ -1,7 +1,7 @@
 # 💄 Shayna Cosmetic — E-Commerce Website
 
 **Shayna Cosmetic** adalah platform toko online kosmetik yang dirancang dengan tampilan modern dan pengalaman belanja yang sederhana.  
-Proyek ini dibangun menggunakan **Laravel (Filament + REST API)** di sisi backend dan **React + Tailwind CSS** di sisi frontend.
+Proyek ini dibangun menggunakan **Laravel (Filament + REST API)** di sisi backend dan **React + TypeScript & styling Tailwind CSS** di sisi frontend.
 
 ---
 
